@@ -1,11 +1,9 @@
 ---
 name: serial-momentum
-description: Structure content with strategic hooks, cliff-hangers, and alternating
-  registers to maintain reader engagement across installments, following Dickens's
-  serialization methodology.
+description: Structure content with strategic hooks, cliff-hangers, and alternating registers to maintain reader engagement across installments, following Dickens's serialization methodology.
 license: MIT
 metadata:
-  version: 1.0.0
+  version: 1.0.1
   author: sethmblack
 keywords:
 - callbacks
